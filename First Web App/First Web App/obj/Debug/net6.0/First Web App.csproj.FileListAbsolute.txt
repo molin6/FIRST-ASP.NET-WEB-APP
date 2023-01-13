@@ -1,0 +1,31 @@
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\bin\Debug\net6.0\appsettings.json
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\bin\Debug\net6.0\First Web App.staticwebassets.runtime.json
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\bin\Debug\net6.0\First Web App.exe
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\bin\Debug\net6.0\First Web App.deps.json
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\bin\Debug\net6.0\First Web App.runtimeconfig.json
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\bin\Debug\net6.0\First Web App.dll
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\bin\Debug\net6.0\First Web App.pdb
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\First Web App.csproj.AssemblyReference.cache
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\First Web App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\First Web App.AssemblyInfoInputs.cache
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\First Web App.AssemblyInfo.cs
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\First Web App.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\First Web App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\First Web App.RazorAssemblyInfo.cache
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\First Web App.RazorAssemblyInfo.cs
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\staticwebassets\msbuild.First Web App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\staticwebassets\msbuild.build.First Web App.props
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.First Web App.props
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.First Web App.props
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\scopedcss\bundle\First Web App.styles.css
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\scopedcss\projectbundle\First Web App.bundle.scp.css
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\First Web App.dll
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\refint\First Web App.dll
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\First Web App.pdb
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\First Web App.genruntimeconfig.cache
+C:\Users\isaia\Desktop\environment\FIRST-ASP.NET-WEB-APP\First Web App\First Web App\obj\Debug\net6.0\ref\First Web App.dll
